@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("¡Hola desde IntelliJ y Git! ");
+        System.out.println("¡Hola desde el terminal y la NuevaRama!");
     }
 }
